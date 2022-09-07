@@ -1,5 +1,5 @@
-# Complete-JAVASCRIPT-Cource
-## Basic level
+# Complete JAVASCRIPT Cource
+## Basic level | Javascript Starter kit
 <ul>
   <li>Introduction</li> 
   <li>Why Javascript</li>
@@ -15,11 +15,9 @@
   <li>Math</li> 
   <li>Conditions and Loops</li> 
   <li>Timers</li> 
-  
-  
 </ul>
 
-## Experienced level
+## Experienced level | Senior Javascript Developer
 
 To get this level you should have knowledge on HTML and Css
 
@@ -36,7 +34,7 @@ To get this level you should have knowledge on HTML and Css
      <li>Test Cases</li>
  </ul>
  
- ## Advanced level
+ ## Advanced level in Javascript
 
 To get this level you should have knowledge on HTML and Css
 
@@ -56,7 +54,7 @@ To get this level you should have knowledge on HTML and Css
     <li>Custom Test cases</li>
  </ul>
  
-## Architech level
+## Expertise level | Specialist in Javascript
 
 To get this level you should have knowledge on HTML and Css
 <ul>
